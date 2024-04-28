@@ -1,0 +1,4 @@
+kubectl get nodes
+kubectl get ns
+kubectl get pods -n springboot-ns
+kubectl get svc -n springboot-ns
